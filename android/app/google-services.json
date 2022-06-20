@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379361213916",
+    "project_id": "amy-shop-app",
+    "storage_bucket": "amy-shop-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379361213916:android:6e0ab3689fdb9e29b1e319",
+        "android_client_info": {
+          "package_name": "com.amy_shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379361213916-mf9lni2oacd2099599tcmkttdegovsfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJjupz-jS2giu558EGgGrIBCLDE7DFMEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379361213916-mf9lni2oacd2099599tcmkttdegovsfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
